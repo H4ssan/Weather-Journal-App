@@ -8,9 +8,9 @@ This is a simple app where the user enters their travel location and their feeli
   * Then navigate to localhost:8000
   
  # Dependencies
- HTML
- CSS
- JavaScript
- Node.js
- Express.js
- OpenWeather API
+ * HTML
+ * CSS
+ * JavaScript
+ * Node.js
+ * Express.js
+ * OpenWeather API

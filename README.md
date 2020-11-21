@@ -4,7 +4,7 @@ This is a simple app where the user enters their travel location and their feeli
 # How to Run
 * Clone, fork or download this repo
 * In the terminal run:
-  * node .\server.js (You'll need Node.js)
+  * 'node .\server.js' (You'll need Node.js)
   * Then navigate to localhost:8000
   
  # Dependencies

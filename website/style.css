@@ -1,6 +1,10 @@
 body{
-    background: #fffff8;
+    background-image: url(./images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    min-height: 100vh;
 }
 
 #app{
@@ -8,8 +12,7 @@ body{
     grid-auto-rows: minmax(150px, auto);
     /* grid-template-columns:  */
     height:100vh;
-    background: #6fafd8;
-    color: white;
+    
     justify-content: center;
     grid-gap: 1em;
     font-size: 20px;
